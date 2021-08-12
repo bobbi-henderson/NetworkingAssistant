@@ -1,0 +1,11 @@
+{
+  "name": "networkingapp",
+  "version": "1.0.0",
+  "description": "An app to help organize your networking efforts.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobbi Henderson",
+  "license": "ISC"
+}
